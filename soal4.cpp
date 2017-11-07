@@ -14,4 +14,4 @@ int main () {
 	else
 		cout<<"Nilai 0";
 }
-	}
+	
